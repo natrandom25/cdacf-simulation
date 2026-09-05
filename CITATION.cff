@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper it supports."
+title: "CDACF Simulation: a stability-governed controller for cross-domain consensus selection"
+abstract: >-
+  Simulation code, seeds, analysis scripts and result files for the CDACF consensus
+  selection controller, evaluated across two calibrated IoT domain profiles, thirteen
+  out-of-distribution configurations and one held-out profile.
+version: 4.0.0
+date-released: 2026-09-05
+type: software
+repository-code: "https://github.com/natrandom25/cdacf-simulation"
+authors:
+  - family-names: "Bhore"
+    given-names: "Smita"
+    affiliation: "Symbiosis Institute of Digital and Telecom Management, Symbiosis International (Deemed University), Pune, India"
+  - family-names: "N. A."
+    given-names: "Natraj"
+    affiliation: "Symbiosis Institute of Digital and Telecom Management, Symbiosis International (Deemed University), Pune, India"
+    email: "natraj@sidtm.edu.in"
+keywords:
+  - blockchain
+  - consensus
+  - Internet of Things
+  - switching governance
+  - simulation
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Stability-Governed Controller for Cross-Domain Consensus Selection in Blockchain-Based Heterogeneous IoT Deployments"
+  authors:
+    - family-names: "Bhore"
+      given-names: "Smita"
+    - family-names: "N. A."
+      given-names: "Natraj"
+  journal: "Discover Computing"
+  year: 2026
